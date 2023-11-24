@@ -1,0 +1,7 @@
+openai==0.27.0
+langchain==0.1.0
+PyQt5==5.15.4
+pyforms==1.0.1
+
+# Run the pip install -r requirements.txt
+# to install the required libraries. 
